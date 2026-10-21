@@ -66,5 +66,11 @@ the raw files for that date.
 ## Latest scoreboard
 
 <!-- scoreboard:start -->
-There is no audit yet. The first Monday run writes the scoreboard here.
+Audit of 2026-10-21 ([comparison](reports/2026-10-21/comparison.md))
+
+| Site | Heuristics judged | Total severity (lower is better) | Highest single severity | Report |
+|---|---|---|---|---|
+| NUS | 0 of 10 | not judged | not judged | [nus.md](reports/2026-10-21/nus.md) |
+| NTU | 8 of 10 | 8 | 2 (Consistency and standards) | [ntu.md](reports/2026-10-21/ntu.md) |
+| SMU | 0 of 10 | not judged | not judged | [smu.md](reports/2026-10-21/smu.md) |
 <!-- scoreboard:end -->
