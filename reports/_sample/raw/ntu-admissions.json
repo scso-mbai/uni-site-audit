@@ -1,0 +1,143 @@
+{
+  "url": "https://www.ntu.edu.sg/admissions",
+  "site": "ntu",
+  "page": "admissions",
+  "fetched_at": "2026-10-21T09:46:34+08:00",
+  "user_agent": "MGMT6110-class-audit (educational; weekly)",
+  "outcome": "ok",
+  "outcome_note": "fetched and read.",
+  "robots": {
+    "url": "https://www.ntu.edu.sg/robots.txt",
+    "status": 200,
+    "rules_read": true,
+    "note": "",
+    "allowed": true,
+    "group_used": "*",
+    "matched_rule": null
+  },
+  "http": {
+    "status": 200,
+    "final_url": "https://www.ntu.edu.sg/admissions",
+    "redirected": false,
+    "response_ms": 156,
+    "bytes": 142961,
+    "content_type": "text/html; charset=utf-8",
+    "content_language_header": null,
+    "server_header": "cloudflare"
+  },
+  "challenge": null,
+  "facts": {
+    "title": "Admissions | NTU Singapore",
+    "title_length": 26,
+    "lang": "en",
+    "meta_viewport": "width=device-width, initial-scale=1.0",
+    "meta_description_present": true,
+    "meta_robots": "follow",
+    "visible_word_count": 1627,
+    "landmarks": {
+      "header": true,
+      "main": false,
+      "footer": true
+    },
+    "headings": {
+      "h1_count": 0,
+      "h1": [],
+      "h2_count": 1,
+      "h2": [
+        "Funding Your Education"
+      ],
+      "h3_count": 5
+    },
+    "navigation": {
+      "landmark_count": 2,
+      "landmarks": [
+        {
+          "label": "Site Navigation",
+          "links": 303,
+          "top_level_link_count": 7,
+          "top_level_links": [
+            "About Us",
+            "Admissions",
+            "Education",
+            "Research",
+            "Innovation",
+            "Life at NTU",
+            "Alumni"
+          ]
+        },
+        {
+          "label": "Breadcrumb",
+          "links": 9,
+          "top_level_link_count": 2,
+          "top_level_links": [
+            "Corporate NTU",
+            "Admissions"
+          ]
+        }
+      ],
+      "aria_current_count": 0,
+      "home_links": 2
+    },
+    "search": {
+      "search_form": true,
+      "search_input": true,
+      "search_button_or_toggle": true
+    },
+    "breadcrumbs": {
+      "present": true,
+      "signs": [
+        "aria-label mentions breadcrumb",
+        "class or id mentions breadcrumb"
+      ]
+    },
+    "images": {
+      "total": 7,
+      "missing_alt": 0,
+      "empty_alt": 4
+    },
+    "links": {
+      "total": 340,
+      "empty_text": 1,
+      "vague_text_total": 0,
+      "vague_text_by_phrase": {}
+    },
+    "forms": {
+      "forms": 2,
+      "inputs": 38,
+      "inputs_without_label": 1,
+      "unlabelled_with_placeholder_only": 1,
+      "unlabelled_types": [
+        "text"
+      ]
+    },
+    "skip_link": {
+      "present": false
+    },
+    "footer_contact": {
+      "footer_found": true,
+      "phone_pattern": true,
+      "email_pattern": false,
+      "postal_address_pattern": true
+    },
+    "cookie_banner_hints": [
+      "an element's class or id mentions cookies or consent",
+      "page text mentions cookies"
+    ],
+    "scripts": {
+      "total": 9,
+      "external": 6,
+      "third_party_hosts": [
+        "lyon.dialogshield.ai",
+        "platform-api.sharethis.com"
+      ]
+    },
+    "help_faq_contact_links": [
+      "Frequently Asked Questions",
+      "Contact Us",
+      "Contact Service Desk",
+      "FAQs"
+    ],
+    "carousel_or_slider_hints": 12,
+    "autoplay_media": 0
+  }
+}

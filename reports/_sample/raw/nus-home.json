@@ -1,0 +1,37 @@
+{
+  "url": "https://www.nus.edu.sg/",
+  "site": "nus",
+  "page": "home",
+  "fetched_at": "2026-10-21T09:46:27+08:00",
+  "user_agent": "MGMT6110-class-audit (educational; weekly)",
+  "outcome": "bot_check_page",
+  "outcome_note": "the site answered with a bot-check page from Imperva Incapsula (842 bytes, 6 visible words) instead of its content. The audit does not try to get past it.",
+  "robots": {
+    "url": "https://www.nus.edu.sg/robots.txt",
+    "status": 200,
+    "rules_read": false,
+    "note": "robots.txt answered with an HTML page, not a rules file, so no rules apply.",
+    "allowed": true,
+    "group_used": null,
+    "matched_rule": null
+  },
+  "http": {
+    "status": 200,
+    "final_url": "https://www.nus.edu.sg/",
+    "redirected": false,
+    "response_ms": 121,
+    "bytes": 842,
+    "content_type": "text/html",
+    "content_language_header": null,
+    "server_header": null
+  },
+  "challenge": {
+    "vendor": "Imperva Incapsula",
+    "signs": [
+      "Incapsula incident",
+      "_Incapsula_Resource"
+    ],
+    "visible_words": 6
+  },
+  "facts": null
+}

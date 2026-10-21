@@ -1,0 +1,38 @@
+{
+  "owner_email": "YOUR_EMAIL_ADDRESS@gmail.com",
+  "send_email_summary": true,
+  "schedule": "Every Monday at 7:07 AM Singapore time",
+  "timezone": "Asia/Singapore (UTC+08:00)",
+  "report_folder": "reports",
+  "timeout_seconds": 30,
+  "pause_seconds_between_requests": 3,
+  "sites": [
+    {
+      "key": "nus",
+      "name": "NUS",
+      "full_name": "National University of Singapore",
+      "pages": [
+        { "key": "home", "url": "https://www.nus.edu.sg/" },
+        { "key": "admissions", "url": "https://www.nus.edu.sg/admissions" }
+      ]
+    },
+    {
+      "key": "ntu",
+      "name": "NTU",
+      "full_name": "Nanyang Technological University",
+      "pages": [
+        { "key": "home", "url": "https://www.ntu.edu.sg/" },
+        { "key": "admissions", "url": "https://www.ntu.edu.sg/admissions" }
+      ]
+    },
+    {
+      "key": "smu",
+      "name": "SMU",
+      "full_name": "Singapore Management University",
+      "pages": [
+        { "key": "home", "url": "https://www.smu.edu.sg/" },
+        { "key": "admissions", "url": "https://www.smu.edu.sg/admissions" }
+      ]
+    }
+  ]
+}
